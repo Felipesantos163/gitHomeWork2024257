@@ -15,7 +15,7 @@ public class GitHomeWork2024257 {
      */
     public static void main(String[] args) {
         
-        System.out.println("My name is Felipe - 2024257");
+        System.out.println("My name is Felipe - 2024257.");
     }
     
 }
